@@ -1,0 +1,2083 @@
+{
+  "schemaVersion": 1,
+  "title": "A House for Mouse",
+  "sourceLanguage": "en",
+  "translationLanguage": "zh-CN",
+  "voices": {
+    "en": "en-US-JennyNeural",
+    "zh": "zh-CN-XiaoxiaoNeural"
+  },
+  "readerTheme": {
+    "preset": "storybook",
+    "source": "auto",
+    "confidence": "medium",
+    "reason": "故事围绕小老鼠找家、借宿和睡觉做梦展开，场景在狗窝、鹦鹉、鱼缸与书架间变换，没有单一的冬季、农场或海洋主线，温馨睡前故事最适合中性的绘本花园。"
+  },
+  "presentation": {
+    "pageMode": "source-spread"
+  },
+  "pages": [
+    {
+      "index": 1,
+      "sourcePdfPage": 1,
+      "image": "assets/page-001.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Front and back cover: Mouse sits on a blue patterned hill under the title A House for Mouse.",
+      "kind": "cover",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    },
+    {
+      "index": 2,
+      "sourcePdfPage": 2,
+      "image": "assets/page-002.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Inside page reading This book belongs to, with a small title mark.",
+      "kind": "title",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    },
+    {
+      "index": 3,
+      "sourcePdfPage": 3,
+      "image": "assets/page-003.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Deep blue wavy endpaper.",
+      "kind": "endpaper",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    },
+    {
+      "index": 4,
+      "sourcePdfPage": 4,
+      "image": "assets/page-004.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Credits and Creative Commons license page with a small Mouse.",
+      "kind": "title",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    },
+    {
+      "index": 5,
+      "sourcePdfPage": 5,
+      "image": "assets/page-005.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-005.mp3",
+      "chineseAudio": "audio/pages/zh-005.mp3",
+      "wordTimings": [
+        {
+          "text": "Mouse",
+          "start": 0.105541,
+          "duration": 0.375
+        },
+        {
+          "text": "was",
+          "start": 0.494458,
+          "duration": 0.180541
+        },
+        {
+          "text": "looking",
+          "start": 0.688875,
+          "duration": 0.333333
+        },
+        {
+          "text": "for",
+          "start": 1.036125,
+          "duration": 0.166666
+        },
+        {
+          "text": "a",
+          "start": 1.216666,
+          "duration": 0.055541
+        },
+        {
+          "text": "new",
+          "start": 1.286125,
+          "duration": 0.166666
+        },
+        {
+          "text": "house",
+          "start": 1.466666,
+          "duration": 0.597208
+        }
+      ],
+      "alt": "Mouse walks through a purple night landscape toward a little house.",
+      "kind": "story",
+      "enText": "Mouse was looking for a new house.",
+      "zhText": "小老鼠在找一个新家。",
+      "words": [
+        {
+          "text": "Mouse",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.109085,
+            "y": 0.479303,
+            "w": 0.052853,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        },
+        {
+          "text": "was",
+          "lemma": "be",
+          "meaningZh": "（那时）是；正在",
+          "box": {
+            "x": 0.165854,
+            "y": 0.479303,
+            "w": 0.032089,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/313f87a87c43acd822ac0226.mp3"
+        },
+        {
+          "text": "looking",
+          "lemma": "look",
+          "meaningZh": "寻找（look for 找）",
+          "box": {
+            "x": 0.201858,
+            "y": 0.479303,
+            "w": 0.059561,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/6825d67d3dcf2eb85a1d78bd.mp3"
+        },
+        {
+          "text": "for",
+          "lemma": "for",
+          "meaningZh": "为了；（look for）寻找",
+          "box": {
+            "x": 0.265335,
+            "y": 0.479303,
+            "w": 0.022437,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4d18c9cb10c8b6b56320a5c1.mp3"
+        },
+        {
+          "text": "a",
+          "lemma": "a",
+          "meaningZh": "一个",
+          "box": {
+            "x": 0.291687,
+            "y": 0.479303,
+            "w": 0.008043,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/8a386e3d5ea5c9ecd22cac5d.mp3"
+        },
+        {
+          "text": "new",
+          "lemma": "new",
+          "meaningZh": "新的",
+          "box": {
+            "x": 0.303646,
+            "y": 0.479303,
+            "w": 0.034182,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/18679140ee5be97ceb9bfcf9.mp3"
+        },
+        {
+          "text": "house.",
+          "lemma": "house",
+          "meaningZh": "房子；家",
+          "box": {
+            "x": 0.341744,
+            "y": 0.479303,
+            "w": 0.04917,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5cc358739e007dfb6e533dc8.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 7,
+          "translationZh": "小老鼠在找一个新家。"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sourcePdfPage": 6,
+      "image": "assets/page-006.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-006.mp3",
+      "chineseAudio": "audio/pages/zh-006.mp3",
+      "wordTimings": [
+        {
+          "text": "This",
+          "start": 0.105541,
+          "duration": 0.263875
+        },
+        {
+          "text": "looks",
+          "start": 0.383333,
+          "duration": 0.236125
+        },
+        {
+          "text": "like",
+          "start": 0.633333,
+          "duration": 0.166666
+        },
+        {
+          "text": "a",
+          "start": 0.813875,
+          "duration": 0.055541
+        },
+        {
+          "text": "nice",
+          "start": 0.883333,
+          "duration": 0.319458
+        },
+        {
+          "text": "house",
+          "start": 1.216666,
+          "duration": 0.583333
+        }
+      ],
+      "alt": "Mouse peeks into a tall wooden doorway.",
+      "kind": "story",
+      "enText": "This looks like a nice house.",
+      "zhText": "这里看起来是个不错的家。",
+      "words": [
+        {
+          "text": "This",
+          "lemma": "this",
+          "meaningZh": "这个",
+          "box": {
+            "x": 0.141448,
+            "y": 0.480598,
+            "w": 0.03611,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4ff303fb4aacf9daca393020.mp3"
+        },
+        {
+          "text": "looks",
+          "lemma": "look",
+          "meaningZh": "看起来",
+          "box": {
+            "x": 0.181474,
+            "y": 0.480598,
+            "w": 0.04195,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/8a97ede8ceca070d092bd884.mp3"
+        },
+        {
+          "text": "like",
+          "lemma": "like",
+          "meaningZh": "像",
+          "box": {
+            "x": 0.22734,
+            "y": 0.480598,
+            "w": 0.029676,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/7a4d73d2c935be1c0f77f5af.mp3"
+        },
+        {
+          "text": "a",
+          "lemma": "a",
+          "meaningZh": "一个",
+          "box": {
+            "x": 0.260932,
+            "y": 0.480598,
+            "w": 0.008043,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/8a386e3d5ea5c9ecd22cac5d.mp3"
+        },
+        {
+          "text": "nice",
+          "lemma": "nice",
+          "meaningZh": "好的；漂亮的",
+          "box": {
+            "x": 0.272891,
+            "y": 0.480598,
+            "w": 0.032575,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5542f9c052d745407511b7e3.mp3"
+        },
+        {
+          "text": "house.",
+          "lemma": "house",
+          "meaningZh": "房子；家",
+          "box": {
+            "x": 0.309382,
+            "y": 0.480598,
+            "w": 0.049168,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5cc358739e007dfb6e533dc8.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 6,
+          "translationZh": "这里看起来是个不错的家。"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sourcePdfPage": 7,
+      "image": "assets/page-007.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-007.mp3",
+      "chineseAudio": "audio/pages/zh-007.mp3",
+      "wordTimings": [
+        {
+          "text": "You",
+          "start": 0.105541,
+          "duration": 0.180541
+        },
+        {
+          "text": "can",
+          "start": 0.3,
+          "duration": 0.166666
+        },
+        {
+          "text": "come",
+          "start": 0.480541,
+          "duration": 0.208333
+        },
+        {
+          "text": "and",
+          "start": 0.702791,
+          "duration": 0.138875
+        },
+        {
+          "text": "sleep",
+          "start": 0.855541,
+          "duration": 0.305541
+        },
+        {
+          "text": "with",
+          "start": 1.175,
+          "duration": 0.166666
+        },
+        {
+          "text": "me",
+          "start": 1.355541,
+          "duration": 0.291666
+        },
+        {
+          "text": "said",
+          "start": 1.772208,
+          "duration": 0.263875
+        },
+        {
+          "text": "Puppy",
+          "start": 2.05,
+          "duration": 0.527791
+        },
+        {
+          "text": "Thank",
+          "start": 3.541666,
+          "duration": 0.319458
+        },
+        {
+          "text": "you",
+          "start": 3.875,
+          "duration": 0.305541
+        },
+        {
+          "text": "said",
+          "start": 4.416666,
+          "duration": 0.277791
+        },
+        {
+          "text": "Mouse",
+          "start": 4.708333,
+          "duration": 0.611125
+        }
+      ],
+      "alt": "A big black puppy talks to Mouse.",
+      "kind": "story",
+      "enText": "“You can come and sleep with me,” said Puppy. “Thank you,” said Mouse.",
+      "zhText": "“你可以来和我一起睡。”小狗说。“谢谢你。”小老鼠说。",
+      "words": [
+        {
+          "text": "“You",
+          "lemma": "you",
+          "meaningZh": "你",
+          "box": {
+            "x": 0.068688,
+            "y": 0.434741,
+            "w": 0.039539,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/42a93afa7d19114f6436826b.mp3"
+        },
+        {
+          "text": "can",
+          "lemma": "can",
+          "meaningZh": "可以；能",
+          "box": {
+            "x": 0.112143,
+            "y": 0.434741,
+            "w": 0.026374,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51a66ba812325537f7ce2b66.mp3"
+        },
+        {
+          "text": "come",
+          "lemma": "come",
+          "meaningZh": "来",
+          "box": {
+            "x": 0.142433,
+            "y": 0.434741,
+            "w": 0.041275,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/1bcf6205f4ec455db6d8dfab.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.187623,
+            "y": 0.434741,
+            "w": 0.028469,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "sleep",
+          "lemma": "sleep",
+          "meaningZh": "睡觉",
+          "box": {
+            "x": 0.220008,
+            "y": 0.434741,
+            "w": 0.040024,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5d8280b38e3feec464be3d72.mp3"
+        },
+        {
+          "text": "with",
+          "lemma": "with",
+          "meaningZh": "和……一起",
+          "box": {
+            "x": 0.263948,
+            "y": 0.434741,
+            "w": 0.038502,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4fa72af5f7b56a211c3aca5d.mp3"
+        },
+        {
+          "text": "me,”",
+          "lemma": "me",
+          "meaningZh": "我",
+          "box": {
+            "x": 0.306366,
+            "y": 0.434741,
+            "w": 0.033041,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ed96e99409072c457285ba20.mp3"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "meaningZh": "说（say 的过去式）",
+          "box": {
+            "x": 0.341206,
+            "y": 0.434741,
+            "w": 0.031835,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca4d5330daa2cc5381d7ba7f.mp3"
+        },
+        {
+          "text": "Puppy.",
+          "lemma": "puppy",
+          "meaningZh": "小狗",
+          "box": {
+            "x": 0.376957,
+            "y": 0.434741,
+            "w": 0.054354,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5a1871777726ac2bd27e98ac.mp3"
+        },
+        {
+          "text": "“Thank",
+          "lemma": "thank",
+          "meaningZh": "谢谢",
+          "box": {
+            "x": 0.151428,
+            "y": 0.533505,
+            "w": 0.059753,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4c4ebdcf15e7f4d4a3753496.mp3"
+        },
+        {
+          "text": "you,”",
+          "lemma": "you",
+          "meaningZh": "你",
+          "box": {
+            "x": 0.215098,
+            "y": 0.533505,
+            "w": 0.038966,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/42a93afa7d19114f6436826b.mp3"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "meaningZh": "说（say 的过去式）",
+          "box": {
+            "x": 0.255862,
+            "y": 0.533505,
+            "w": 0.031835,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca4d5330daa2cc5381d7ba7f.mp3"
+        },
+        {
+          "text": "Mouse.",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.291613,
+            "y": 0.533505,
+            "w": 0.056959,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 9,
+          "translationZh": "“你可以来和我一起睡。”小狗说。"
+        },
+        {
+          "wordStart": 9,
+          "wordEnd": 13,
+          "translationZh": "“谢谢你。”小老鼠说。"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sourcePdfPage": 8,
+      "image": "assets/page-008.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-008.mp3",
+      "chineseAudio": "audio/pages/zh-008.mp3",
+      "wordTimings": [
+        {
+          "text": "That",
+          "start": 0.105541,
+          "duration": 0.277791
+        },
+        {
+          "text": "night",
+          "start": 0.397208,
+          "duration": 0.430541
+        },
+        {
+          "text": "Mouse’s",
+          "start": 1.008333,
+          "duration": 0.430541
+        },
+        {
+          "text": "dreams",
+          "start": 1.452791,
+          "duration": 0.416666
+        },
+        {
+          "text": "were",
+          "start": 1.883333,
+          "duration": 0.111125
+        },
+        {
+          "text": "bouncy",
+          "start": 2.008333,
+          "duration": 0.472208
+        },
+        {
+          "text": "and",
+          "start": 2.494458,
+          "duration": 0.111125
+        },
+        {
+          "text": "muddy",
+          "start": 2.619458,
+          "duration": 0.458333
+        }
+      ],
+      "alt": "Mouse sleeps in a brown, muddy swirl.",
+      "kind": "story",
+      "enText": "That night, Mouse’s dreams were bouncy and muddy.",
+      "zhText": "那天晚上，小老鼠的梦蹦蹦跳跳、满是泥巴。",
+      "words": [
+        {
+          "text": "That",
+          "lemma": "that",
+          "meaningZh": "那个",
+          "box": {
+            "x": 0.03375,
+            "y": 0.48422,
+            "w": 0.037571,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5cde3956e3c7ba9d5f4c2deb.mp3"
+        },
+        {
+          "text": "night,",
+          "lemma": "night",
+          "meaningZh": "夜晚；晚上",
+          "box": {
+            "x": 0.075237,
+            "y": 0.48422,
+            "w": 0.045572,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/33af7a1cbb69562506076466.mp3"
+        },
+        {
+          "text": "Mouse’s",
+          "lemma": "mouse",
+          "meaningZh": "小老鼠的",
+          "box": {
+            "x": 0.124724,
+            "y": 0.48422,
+            "w": 0.065339,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/801468f6838978e0966cd3e6.mp3"
+        },
+        {
+          "text": "dreams",
+          "lemma": "dream",
+          "meaningZh": "梦（复数）",
+          "box": {
+            "x": 0.193979,
+            "y": 0.48422,
+            "w": 0.056727,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/9db1ed560837867b48fe6edc.mp3"
+        },
+        {
+          "text": "were",
+          "lemma": "be",
+          "meaningZh": "是（were 是 are 的过去式）",
+          "box": {
+            "x": 0.254622,
+            "y": 0.48422,
+            "w": 0.040574,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/2a78bd9c77de86839eeb6c6f.mp3"
+        },
+        {
+          "text": "bouncy",
+          "lemma": "bouncy",
+          "meaningZh": "蹦蹦跳跳的",
+          "box": {
+            "x": 0.299112,
+            "y": 0.48422,
+            "w": 0.057997,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ddd50c895a0fde2b8c135397.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.361024,
+            "y": 0.48422,
+            "w": 0.028469,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "muddy.",
+          "lemma": "muddy",
+          "meaningZh": "满是泥巴的",
+          "box": {
+            "x": 0.393409,
+            "y": 0.48422,
+            "w": 0.057785,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/f7c66f8ef01f67c61b9fa999.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 8,
+          "translationZh": "那天晚上，小老鼠的梦蹦蹦跳跳、满是泥巴。"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sourcePdfPage": 9,
+      "image": "assets/page-009.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-009.mp3",
+      "chineseAudio": "audio/pages/zh-009.mp3",
+      "wordTimings": [
+        {
+          "text": "You",
+          "start": 0.105541,
+          "duration": 0.180541
+        },
+        {
+          "text": "can",
+          "start": 0.3,
+          "duration": 0.166666
+        },
+        {
+          "text": "come",
+          "start": 0.480541,
+          "duration": 0.222208
+        },
+        {
+          "text": "and",
+          "start": 0.716666,
+          "duration": 0.138875
+        },
+        {
+          "text": "sleep",
+          "start": 0.869458,
+          "duration": 0.305541
+        },
+        {
+          "text": "with",
+          "start": 1.188875,
+          "duration": 0.166666
+        },
+        {
+          "text": "me",
+          "start": 1.369458,
+          "duration": 0.291666
+        },
+        {
+          "text": "said",
+          "start": 1.786125,
+          "duration": 0.263875
+        },
+        {
+          "text": "Parrot",
+          "start": 2.063875,
+          "duration": 0.541666
+        },
+        {
+          "text": "Thank",
+          "start": 3.569458,
+          "duration": 0.319458
+        },
+        {
+          "text": "you",
+          "start": 3.902791,
+          "duration": 0.305541
+        },
+        {
+          "text": "said",
+          "start": 4.444458,
+          "duration": 0.277791
+        },
+        {
+          "text": "Mouse",
+          "start": 4.736125,
+          "duration": 0.611125
+        }
+      ],
+      "alt": "A colourful parrot talks to Mouse.",
+      "kind": "story",
+      "enText": "“You can come and sleep with me,” said Parrot. “Thank you,” said Mouse.",
+      "zhText": "“你可以来和我一起睡。”鹦鹉说。“谢谢你。”小老鼠说。",
+      "words": [
+        {
+          "text": "“You",
+          "lemma": "you",
+          "meaningZh": "你",
+          "box": {
+            "x": 0.068159,
+            "y": 0.434741,
+            "w": 0.039539,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/42a93afa7d19114f6436826b.mp3"
+        },
+        {
+          "text": "can",
+          "lemma": "can",
+          "meaningZh": "可以；能",
+          "box": {
+            "x": 0.111614,
+            "y": 0.434741,
+            "w": 0.026374,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51a66ba812325537f7ce2b66.mp3"
+        },
+        {
+          "text": "come",
+          "lemma": "come",
+          "meaningZh": "来",
+          "box": {
+            "x": 0.141904,
+            "y": 0.434741,
+            "w": 0.041275,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/1bcf6205f4ec455db6d8dfab.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.187094,
+            "y": 0.434741,
+            "w": 0.028469,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "sleep",
+          "lemma": "sleep",
+          "meaningZh": "睡觉",
+          "box": {
+            "x": 0.219479,
+            "y": 0.434741,
+            "w": 0.040024,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5d8280b38e3feec464be3d72.mp3"
+        },
+        {
+          "text": "with",
+          "lemma": "with",
+          "meaningZh": "和……一起",
+          "box": {
+            "x": 0.263419,
+            "y": 0.434741,
+            "w": 0.038502,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4fa72af5f7b56a211c3aca5d.mp3"
+        },
+        {
+          "text": "me,”",
+          "lemma": "me",
+          "meaningZh": "我",
+          "box": {
+            "x": 0.305837,
+            "y": 0.434741,
+            "w": 0.033041,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ed96e99409072c457285ba20.mp3"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "meaningZh": "说（say 的过去式）",
+          "box": {
+            "x": 0.340677,
+            "y": 0.434741,
+            "w": 0.031835,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca4d5330daa2cc5381d7ba7f.mp3"
+        },
+        {
+          "text": "Parrot.",
+          "lemma": "parrot",
+          "meaningZh": "鹦鹉",
+          "box": {
+            "x": 0.376428,
+            "y": 0.434741,
+            "w": 0.055412,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ee0328e5cf2cac1fc183dfc0.mp3"
+        },
+        {
+          "text": "“Thank",
+          "lemma": "thank",
+          "meaningZh": "谢谢",
+          "box": {
+            "x": 0.151429,
+            "y": 0.533505,
+            "w": 0.059753,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4c4ebdcf15e7f4d4a3753496.mp3"
+        },
+        {
+          "text": "you,”",
+          "lemma": "you",
+          "meaningZh": "你",
+          "box": {
+            "x": 0.215098,
+            "y": 0.533505,
+            "w": 0.038966,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/42a93afa7d19114f6436826b.mp3"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "meaningZh": "说（say 的过去式）",
+          "box": {
+            "x": 0.255863,
+            "y": 0.533505,
+            "w": 0.031835,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca4d5330daa2cc5381d7ba7f.mp3"
+        },
+        {
+          "text": "Mouse.",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.291613,
+            "y": 0.533505,
+            "w": 0.056959,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 9,
+          "translationZh": "“你可以来和我一起睡。”鹦鹉说。"
+        },
+        {
+          "wordStart": 9,
+          "wordEnd": 13,
+          "translationZh": "“谢谢你。”小老鼠说。"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sourcePdfPage": 10,
+      "image": "assets/page-010.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-010.mp3",
+      "chineseAudio": "audio/pages/zh-010.mp3",
+      "wordTimings": [
+        {
+          "text": "That",
+          "start": 0.105541,
+          "duration": 0.277791
+        },
+        {
+          "text": "night",
+          "start": 0.397208,
+          "duration": 0.430541
+        },
+        {
+          "text": "Mouse’s",
+          "start": 1.008333,
+          "duration": 0.430541
+        },
+        {
+          "text": "dreams",
+          "start": 1.452791,
+          "duration": 0.416666
+        },
+        {
+          "text": "were",
+          "start": 1.883333,
+          "duration": 0.138875
+        },
+        {
+          "text": "noisy",
+          "start": 2.036125,
+          "duration": 0.416666
+        },
+        {
+          "text": "and",
+          "start": 2.466666,
+          "duration": 0.125
+        },
+        {
+          "text": "wild",
+          "start": 2.605541,
+          "duration": 0.541666
+        }
+      ],
+      "alt": "Mouse sleeps among wild jungle leaves.",
+      "kind": "story",
+      "enText": "That night, Mouse’s dreams were noisy and wild.",
+      "zhText": "那天晚上，小老鼠的梦又吵又热闹。",
+      "words": [
+        {
+          "text": "That",
+          "lemma": "that",
+          "meaningZh": "那个",
+          "box": {
+            "x": 0.056476,
+            "y": 0.479547,
+            "w": 0.037571,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5cde3956e3c7ba9d5f4c2deb.mp3"
+        },
+        {
+          "text": "night,",
+          "lemma": "night",
+          "meaningZh": "夜晚；晚上",
+          "box": {
+            "x": 0.097962,
+            "y": 0.479547,
+            "w": 0.045572,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/33af7a1cbb69562506076466.mp3"
+        },
+        {
+          "text": "Mouse’s",
+          "lemma": "mouse",
+          "meaningZh": "小老鼠的",
+          "box": {
+            "x": 0.14745,
+            "y": 0.479547,
+            "w": 0.065339,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/801468f6838978e0966cd3e6.mp3"
+        },
+        {
+          "text": "dreams",
+          "lemma": "dream",
+          "meaningZh": "梦（复数）",
+          "box": {
+            "x": 0.216705,
+            "y": 0.479547,
+            "w": 0.056727,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/9db1ed560837867b48fe6edc.mp3"
+        },
+        {
+          "text": "were",
+          "lemma": "be",
+          "meaningZh": "是（were 是 are 的过去式）",
+          "box": {
+            "x": 0.277347,
+            "y": 0.479547,
+            "w": 0.040574,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/2a78bd9c77de86839eeb6c6f.mp3"
+        },
+        {
+          "text": "noisy",
+          "lemma": "noisy",
+          "meaningZh": "吵闹的",
+          "box": {
+            "x": 0.321838,
+            "y": 0.479547,
+            "w": 0.042164,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/142ce9b246890a45a0d8bf74.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.367917,
+            "y": 0.479547,
+            "w": 0.028469,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "wild.",
+          "lemma": "wild",
+          "meaningZh": "狂野的；热闹的",
+          "box": {
+            "x": 0.400302,
+            "y": 0.479547,
+            "w": 0.043222,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/118a3fc596ab714099363f23.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 8,
+          "translationZh": "那天晚上，小老鼠的梦又吵又热闹。"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sourcePdfPage": 11,
+      "image": "assets/page-011.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-011.mp3",
+      "chineseAudio": "audio/pages/zh-011.mp3",
+      "wordTimings": [
+        {
+          "text": "You",
+          "start": 0.105541,
+          "duration": 0.180541
+        },
+        {
+          "text": "can",
+          "start": 0.3,
+          "duration": 0.166666
+        },
+        {
+          "text": "come",
+          "start": 0.480541,
+          "duration": 0.222208
+        },
+        {
+          "text": "and",
+          "start": 0.716666,
+          "duration": 0.138875
+        },
+        {
+          "text": "sleep",
+          "start": 0.869458,
+          "duration": 0.305541
+        },
+        {
+          "text": "with",
+          "start": 1.188875,
+          "duration": 0.166666
+        },
+        {
+          "text": "me",
+          "start": 1.369458,
+          "duration": 0.291666
+        },
+        {
+          "text": "said",
+          "start": 1.786125,
+          "duration": 0.263875
+        },
+        {
+          "text": "Fish",
+          "start": 2.063875,
+          "duration": 0.597208
+        },
+        {
+          "text": "Thank",
+          "start": 3.625,
+          "duration": 0.319458
+        },
+        {
+          "text": "you",
+          "start": 3.958333,
+          "duration": 0.305541
+        },
+        {
+          "text": "said",
+          "start": 4.5,
+          "duration": 0.277791
+        },
+        {
+          "text": "Mouse",
+          "start": 4.791666,
+          "duration": 0.611125
+        }
+      ],
+      "alt": "An orange fish talks to Mouse.",
+      "kind": "story",
+      "enText": "“You can come and sleep with me,” said Fish. “Thank you,” said Mouse.",
+      "zhText": "“你可以来和我一起睡。”小鱼说。“谢谢你。”小老鼠说。",
+      "words": [
+        {
+          "text": "“You",
+          "lemma": "you",
+          "meaningZh": "你",
+          "box": {
+            "x": 0.076298,
+            "y": 0.434741,
+            "w": 0.039539,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/42a93afa7d19114f6436826b.mp3"
+        },
+        {
+          "text": "can",
+          "lemma": "can",
+          "meaningZh": "可以；能",
+          "box": {
+            "x": 0.119753,
+            "y": 0.434741,
+            "w": 0.026374,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51a66ba812325537f7ce2b66.mp3"
+        },
+        {
+          "text": "come",
+          "lemma": "come",
+          "meaningZh": "来",
+          "box": {
+            "x": 0.150042,
+            "y": 0.434741,
+            "w": 0.041275,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/1bcf6205f4ec455db6d8dfab.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.195233,
+            "y": 0.434741,
+            "w": 0.028469,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "sleep",
+          "lemma": "sleep",
+          "meaningZh": "睡觉",
+          "box": {
+            "x": 0.227618,
+            "y": 0.434741,
+            "w": 0.040024,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5d8280b38e3feec464be3d72.mp3"
+        },
+        {
+          "text": "with",
+          "lemma": "with",
+          "meaningZh": "和……一起",
+          "box": {
+            "x": 0.271558,
+            "y": 0.434741,
+            "w": 0.038502,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4fa72af5f7b56a211c3aca5d.mp3"
+        },
+        {
+          "text": "me,”",
+          "lemma": "me",
+          "meaningZh": "我",
+          "box": {
+            "x": 0.313976,
+            "y": 0.434741,
+            "w": 0.033041,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ed96e99409072c457285ba20.mp3"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "meaningZh": "说（say 的过去式）",
+          "box": {
+            "x": 0.348816,
+            "y": 0.434741,
+            "w": 0.031835,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca4d5330daa2cc5381d7ba7f.mp3"
+        },
+        {
+          "text": "Fish.",
+          "lemma": "fish",
+          "meaningZh": "鱼",
+          "box": {
+            "x": 0.384566,
+            "y": 0.434741,
+            "w": 0.039135,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/68b68e8445a0d1a14696a0c8.mp3"
+        },
+        {
+          "text": "“Thank",
+          "lemma": "thank",
+          "meaningZh": "谢谢",
+          "box": {
+            "x": 0.151418,
+            "y": 0.533505,
+            "w": 0.059753,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4c4ebdcf15e7f4d4a3753496.mp3"
+        },
+        {
+          "text": "you,”",
+          "lemma": "you",
+          "meaningZh": "你",
+          "box": {
+            "x": 0.215087,
+            "y": 0.533505,
+            "w": 0.038966,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/42a93afa7d19114f6436826b.mp3"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "meaningZh": "说（say 的过去式）",
+          "box": {
+            "x": 0.255852,
+            "y": 0.533505,
+            "w": 0.031835,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca4d5330daa2cc5381d7ba7f.mp3"
+        },
+        {
+          "text": "Mouse.",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.291603,
+            "y": 0.533505,
+            "w": 0.056959,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 9,
+          "translationZh": "“你可以来和我一起睡。”小鱼说。"
+        },
+        {
+          "wordStart": 9,
+          "wordEnd": 13,
+          "translationZh": "“谢谢你。”小老鼠说。"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sourcePdfPage": 12,
+      "image": "assets/page-012.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-012.mp3",
+      "chineseAudio": "audio/pages/zh-012.mp3",
+      "wordTimings": [
+        {
+          "text": "That",
+          "start": 0.105541,
+          "duration": 0.277791
+        },
+        {
+          "text": "night",
+          "start": 0.397208,
+          "duration": 0.430541
+        },
+        {
+          "text": "Mouse’s",
+          "start": 1.008333,
+          "duration": 0.430541
+        },
+        {
+          "text": "dreams",
+          "start": 1.452791,
+          "duration": 0.416666
+        },
+        {
+          "text": "were",
+          "start": 1.883333,
+          "duration": 0.125
+        },
+        {
+          "text": "cold",
+          "start": 2.022208,
+          "duration": 0.305541
+        },
+        {
+          "text": "and",
+          "start": 2.341666,
+          "duration": 0.097208
+        },
+        {
+          "text": "wet",
+          "start": 2.452791,
+          "duration": 0.5
+        }
+      ],
+      "alt": "Mouse sleeps under water among fish and weeds.",
+      "kind": "story",
+      "enText": "That night, Mouse’s dreams were cold and wet.",
+      "zhText": "那天晚上，小老鼠的梦又冷又湿。",
+      "words": [
+        {
+          "text": "That",
+          "lemma": "that",
+          "meaningZh": "那个",
+          "box": {
+            "x": 0.064275,
+            "y": 0.48413,
+            "w": 0.037571,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5cde3956e3c7ba9d5f4c2deb.mp3"
+        },
+        {
+          "text": "night,",
+          "lemma": "night",
+          "meaningZh": "夜晚；晚上",
+          "box": {
+            "x": 0.105762,
+            "y": 0.48413,
+            "w": 0.045572,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/33af7a1cbb69562506076466.mp3"
+        },
+        {
+          "text": "Mouse’s",
+          "lemma": "mouse",
+          "meaningZh": "小老鼠的",
+          "box": {
+            "x": 0.15525,
+            "y": 0.48413,
+            "w": 0.065339,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/801468f6838978e0966cd3e6.mp3"
+        },
+        {
+          "text": "dreams",
+          "lemma": "dream",
+          "meaningZh": "梦（复数）",
+          "box": {
+            "x": 0.224505,
+            "y": 0.48413,
+            "w": 0.056727,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/9db1ed560837867b48fe6edc.mp3"
+        },
+        {
+          "text": "were",
+          "lemma": "be",
+          "meaningZh": "是（were 是 are 的过去式）",
+          "box": {
+            "x": 0.285147,
+            "y": 0.48413,
+            "w": 0.040574,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/2a78bd9c77de86839eeb6c6f.mp3"
+        },
+        {
+          "text": "cold",
+          "lemma": "cold",
+          "meaningZh": "冷的",
+          "box": {
+            "x": 0.329637,
+            "y": 0.48413,
+            "w": 0.034078,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/321a3e66150f855abdc33ee7.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.367631,
+            "y": 0.48413,
+            "w": 0.028469,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "wet.",
+          "lemma": "wet",
+          "meaningZh": "湿的",
+          "box": {
+            "x": 0.400016,
+            "y": 0.48413,
+            "w": 0.035708,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/ca1463dea7adc2caf50e22b2.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 8,
+          "translationZh": "那天晚上，小老鼠的梦又冷又湿。"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sourcePdfPage": 13,
+      "image": "assets/page-013.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-013.mp3",
+      "chineseAudio": "audio/pages/zh-013.mp3",
+      "wordTimings": [
+        {
+          "text": "Mouse",
+          "start": 0.105541,
+          "duration": 0.388875
+        },
+        {
+          "text": "needed",
+          "start": 0.508333,
+          "duration": 0.319458
+        },
+        {
+          "text": "somewhere",
+          "start": 0.841666,
+          "duration": 0.361125
+        },
+        {
+          "text": "warm",
+          "start": 1.216666,
+          "duration": 0.305541
+        },
+        {
+          "text": "and",
+          "start": 1.536125,
+          "duration": 0.111125
+        },
+        {
+          "text": "dry",
+          "start": 1.661125,
+          "duration": 0.458333
+        }
+      ],
+      "alt": "Mouse runs across a warm orange floor.",
+      "kind": "story",
+      "enText": "Mouse needed somewhere warm and dry.",
+      "zhText": "小老鼠需要一个又暖和又干燥的地方。",
+      "words": [
+        {
+          "text": "Mouse",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.087103,
+            "y": 0.48413,
+            "w": 0.052853,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        },
+        {
+          "text": "needed",
+          "lemma": "need",
+          "meaningZh": "需要（need 的过去式）",
+          "box": {
+            "x": 0.143872,
+            "y": 0.48413,
+            "w": 0.057171,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/c73a0b5eeed1433c848cac2e.mp3"
+        },
+        {
+          "text": "somewhere",
+          "lemma": "somewhere",
+          "meaningZh": "某个地方",
+          "box": {
+            "x": 0.204959,
+            "y": 0.48413,
+            "w": 0.090379,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/d08e4184290672d24eb8f161.mp3"
+        },
+        {
+          "text": "warm",
+          "lemma": "warm",
+          "meaningZh": "温暖的",
+          "box": {
+            "x": 0.299254,
+            "y": 0.48413,
+            "w": 0.046609,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5708d1ef5272bb743a3bbaa6.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.349779,
+            "y": 0.48413,
+            "w": 0.028467,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "dry.",
+          "lemma": "dry",
+          "meaningZh": "干燥的",
+          "box": {
+            "x": 0.382162,
+            "y": 0.48413,
+            "w": 0.030734,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/9b335a8b32b9451ac64ae70d.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 6,
+          "translationZh": "小老鼠需要一个又暖和又干燥的地方。"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sourcePdfPage": 14,
+      "image": "assets/page-014.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Mouse sits on the back of a sofa in front of a glowing fireplace.",
+      "kind": "illustration",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    },
+    {
+      "index": 15,
+      "sourcePdfPage": 15,
+      "image": "assets/page-015.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-015.mp3",
+      "chineseAudio": "audio/pages/zh-015.mp3",
+      "wordTimings": [
+        {
+          "text": "Mouse",
+          "start": 0.105541,
+          "duration": 0.361125
+        },
+        {
+          "text": "found",
+          "start": 0.480541,
+          "duration": 0.208333
+        },
+        {
+          "text": "a",
+          "start": 0.702791,
+          "duration": 0.055541
+        },
+        {
+          "text": "bookshelf",
+          "start": 0.772208,
+          "duration": 0.513875
+        },
+        {
+          "text": "nearby",
+          "start": 1.3,
+          "duration": 0.625
+        }
+      ],
+      "alt": "A row of books on a bookshelf.",
+      "kind": "story",
+      "enText": "Mouse found a bookshelf nearby.",
+      "zhText": "小老鼠在附近找到了一个书架。",
+      "words": [
+        {
+          "text": "Mouse",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.122663,
+            "y": 0.480553,
+            "w": 0.052853,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        },
+        {
+          "text": "found",
+          "lemma": "find",
+          "meaningZh": "找到（find 的过去式）",
+          "box": {
+            "x": 0.179432,
+            "y": 0.480553,
+            "w": 0.045294,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/1ae73925d855d09a4dd7e9c9.mp3"
+        },
+        {
+          "text": "a",
+          "lemma": "a",
+          "meaningZh": "一个",
+          "box": {
+            "x": 0.228642,
+            "y": 0.480553,
+            "w": 0.008043,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/8a386e3d5ea5c9ecd22cac5d.mp3"
+        },
+        {
+          "text": "bookshelf",
+          "lemma": "bookshelf",
+          "meaningZh": "书架",
+          "box": {
+            "x": 0.240601,
+            "y": 0.480553,
+            "w": 0.076814,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/9ccf1f70b275dc2fc73c0cc2.mp3"
+        },
+        {
+          "text": "nearby.",
+          "lemma": "nearby",
+          "meaningZh": "在附近",
+          "box": {
+            "x": 0.321331,
+            "y": 0.480553,
+            "w": 0.056007,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/cdd8a2504bcfe7426ce9df82.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 5,
+          "translationZh": "小老鼠在附近找到了一个书架。"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sourcePdfPage": 16,
+      "image": "assets/page-016.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-016.mp3",
+      "chineseAudio": "audio/pages/zh-016.mp3",
+      "wordTimings": [
+        {
+          "text": "That",
+          "start": 0.105541,
+          "duration": 0.277791
+        },
+        {
+          "text": "night",
+          "start": 0.397208,
+          "duration": 0.402791
+        },
+        {
+          "text": "Mouse",
+          "start": 0.994458,
+          "duration": 0.291666
+        },
+        {
+          "text": "had",
+          "start": 1.3,
+          "duration": 0.166666
+        },
+        {
+          "text": "warm",
+          "start": 1.480541,
+          "duration": 0.305541
+        },
+        {
+          "text": "and",
+          "start": 1.8,
+          "duration": 0.125
+        },
+        {
+          "text": "cosy",
+          "start": 1.938875,
+          "duration": 0.375
+        },
+        {
+          "text": "dreams",
+          "start": 2.327791,
+          "duration": 0.694458
+        }
+      ],
+      "alt": "Mouse sleeps curled up on warm orange patterns.",
+      "kind": "story",
+      "enText": "That night, Mouse had warm and cosy dreams.",
+      "zhText": "那天晚上，小老鼠做了一个温暖又舒服的梦。",
+      "words": [
+        {
+          "text": "That",
+          "lemma": "that",
+          "meaningZh": "那个",
+          "box": {
+            "x": 0.068244,
+            "y": 0.48413,
+            "w": 0.037571,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5cde3956e3c7ba9d5f4c2deb.mp3"
+        },
+        {
+          "text": "night,",
+          "lemma": "night",
+          "meaningZh": "夜晚；晚上",
+          "box": {
+            "x": 0.109731,
+            "y": 0.48413,
+            "w": 0.045572,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/33af7a1cbb69562506076466.mp3"
+        },
+        {
+          "text": "Mouse",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.159218,
+            "y": 0.48413,
+            "w": 0.052851,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        },
+        {
+          "text": "had",
+          "lemma": "have",
+          "meaningZh": "有；做了（have 的过去式）",
+          "box": {
+            "x": 0.215985,
+            "y": 0.48413,
+            "w": 0.028702,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/4cc618c6a50e9a9d431e5240.mp3"
+        },
+        {
+          "text": "warm",
+          "lemma": "warm",
+          "meaningZh": "温暖的",
+          "box": {
+            "x": 0.248603,
+            "y": 0.48413,
+            "w": 0.046609,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/5708d1ef5272bb743a3bbaa6.mp3"
+        },
+        {
+          "text": "and",
+          "lemma": "and",
+          "meaningZh": "和；并且",
+          "box": {
+            "x": 0.299128,
+            "y": 0.48413,
+            "w": 0.028467,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/3785820c96e7eaec2425130e.mp3"
+        },
+        {
+          "text": "cosy",
+          "lemma": "cosy",
+          "meaningZh": "舒适的；暖和的",
+          "box": {
+            "x": 0.331511,
+            "y": 0.48413,
+            "w": 0.035391,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/38958841c39d86b313698900.mp3"
+        },
+        {
+          "text": "dreams.",
+          "lemma": "dream",
+          "meaningZh": "梦（复数）",
+          "box": {
+            "x": 0.370817,
+            "y": 0.48413,
+            "w": 0.060939,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/9db1ed560837867b48fe6edc.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 8,
+          "translationZh": "那天晚上，小老鼠做了一个温暖又舒服的梦。"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "sourcePdfPage": 17,
+      "image": "assets/page-017.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Deep blue wavy endpaper.",
+      "kind": "endpaper",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    },
+    {
+      "index": 18,
+      "sourcePdfPage": 18,
+      "image": "assets/page-018.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": "audio/pages/en-018.mp3",
+      "chineseAudio": "audio/pages/zh-018.mp3",
+      "wordTimings": [
+        {
+          "text": "Good",
+          "start": 0.105541,
+          "duration": 0.208333
+        },
+        {
+          "text": "night",
+          "start": 0.327791,
+          "duration": 0.430541
+        },
+        {
+          "text": "Mouse",
+          "start": 0.952791,
+          "duration": 0.597208
+        }
+      ],
+      "alt": "A tiny round picture of Mouse in the snow at night.",
+      "kind": "story",
+      "enText": "Good night, Mouse.",
+      "zhText": "晚安，小老鼠。",
+      "words": [
+        {
+          "text": "Good",
+          "lemma": "good",
+          "meaningZh": "好的",
+          "box": {
+            "x": 0.350213,
+            "y": 0.590726,
+            "w": 0.094065,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/2fac5b04accec48785763425.mp3"
+        },
+        {
+          "text": "night,",
+          "lemma": "night",
+          "meaningZh": "夜晚；晚上",
+          "box": {
+            "x": 0.45211,
+            "y": 0.590726,
+            "w": 0.091144,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/33af7a1cbb69562506076466.mp3"
+        },
+        {
+          "text": "Mouse.",
+          "lemma": "mouse",
+          "meaningZh": "老鼠；小老鼠（故事主角）",
+          "box": {
+            "x": 0.551085,
+            "y": 0.590726,
+            "w": 0.113915,
+            "h": 0.030697
+          },
+          "audio": "audio/words/en/51c7a3ab494749cd54cf983b.mp3"
+        }
+      ],
+      "sentences": [
+        {
+          "wordStart": 0,
+          "wordEnd": 3,
+          "translationZh": "晚安，小老鼠。"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "sourcePdfPage": 19,
+      "image": "assets/page-019.jpg",
+      "reviewStatus": "verified",
+      "englishAudio": null,
+      "chineseAudio": null,
+      "wordTimings": [],
+      "alt": "Back and front cover repeated at the end of the PDF.",
+      "kind": "cover",
+      "enText": "",
+      "zhText": "",
+      "words": [],
+      "sentences": []
+    }
+  ]
+}
